@@ -1,0 +1,6 @@
+@RobotVacuumWebAPI_HostAddress = http://localhost:5051
+
+GET {{RobotVacuumWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
