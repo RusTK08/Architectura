@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RobotVacuumWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afc3f5189d142b85d2c8a7814ec051dc4f6a4d2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RobotVacuumWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RobotVacuumWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
